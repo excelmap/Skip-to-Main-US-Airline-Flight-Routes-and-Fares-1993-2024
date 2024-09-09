@@ -4,3 +4,6 @@ a.  1. Fare Trends Over the Years
 b. 2. Passenger Distribution by City (Top 10 Cities)
 c.  3. Comparison of Large vs Low-Fare Airlines
 d. Calculate total passengers for large and low-fare airlines by year
+
+Here is the datalink since the file is bigger than 25 mb
+https://www.kaggle.com/search?q=US+Airline+Flight+Routes+and+Fares+1993-2024
